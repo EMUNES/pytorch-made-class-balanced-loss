@@ -1,5 +1,6 @@
 # pytorch-made-class-balanced-loss
 A ready-to-use &amp; class-based-module for directly implementation of class balanced loss in pytorch
+
 一个现成的，基于pytorch nn.Module类的class balanced loss实现
 
 Thanks to the great work of vandit15 in [class-balanced-loss-pytorch](https://github.com/vandit15/Class-balanced-loss-pytorch). See more detailed info about class balanced loss in his git.
